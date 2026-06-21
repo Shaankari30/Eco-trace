@@ -85,7 +85,6 @@ Create a `.env` file in the root directory:
 ```env
 PORT=8080
 NODE_ENV=development
-AI_ADVISOR_API_KEY=your_claude_api_key_here
 ```
 
 ### Run Locally
